@@ -1,0 +1,18 @@
+body {
+    background-color: #FDEFF4;
+    font-family:  "Pirata one","Copperplate",fantasy;
+}
+
+hr{
+    border-color: #D43B33;
+    border-style: dotted none none;
+    border-top-width: 10px;
+    height: 0%;
+    width: 15%;
+}
+h1{
+    color: #1C6E73;
+}
+h2{
+    color: #1C6E73;
+}
